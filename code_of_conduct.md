@@ -33,20 +33,20 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "Elixir Daze Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Nick Quaranto
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "Elixir Daze Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Johnny Winn
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-- Amanda Quaranto at +1 (814) 746-0478
-- Nick Quaranto at +1 (716) 200-3538
+- PJ Hagerty at +1 (716) 319-0509
+- Johnny Winn at +1 (904) 239-2310
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
 ---------------------------------
 
-- [Attendee Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
-- [Staff Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/staff_procedure_for_incident_handling.md)
+- [Attendee Procedure for incident handling](https://github.com/elixirdaze/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
+- [Staff Procedure for incident handling](https://github.com/elixirdaze/code-of-conduct/blob/master/staff_procedure_for_incident_handling.md)
 
 License
 -------
