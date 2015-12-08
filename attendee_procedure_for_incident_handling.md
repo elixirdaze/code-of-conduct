@@ -2,7 +2,7 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 
 1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button/badge with the word “STAFF”
 on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide
+All of our staff are informed of the [code of conduct policy](https://github.com/elixirdaze/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md) and guide
 for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
 when this will be reiterated.*
 
